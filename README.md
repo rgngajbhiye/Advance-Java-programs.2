@@ -1,2 +1,2 @@
-This is  jsp file  
-using Jsdl tags 
+This is  Advance Java programs 
+using jsp,html,css,servlets 
